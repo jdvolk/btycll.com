@@ -6,7 +6,7 @@ body {
     margin: 0px;
     padding-top: 25px;
     height: 100%;
-    min-height: 100vh;
+    min-height: calc(100vh - 25px);
     background-color: #3d3d3d;
     background: radial-gradient(circle, #84394c9e 12%, black 98%), url(assets/chain-background-repeat.png);
     background-position-x: center;
